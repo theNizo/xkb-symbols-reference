@@ -49,7 +49,7 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | € | EuroSign | |
 | µ | mu | |
 
-When you use include, you don't actually override the keys, but the symbols. If a symbol is not overridden, it will shine through (e.g you only replace normal and shift, but not AltGr/Right Alt). To get rid of those, override them with "NoSymbol"
+~~When you use include, you don't actually override the keys, but the symbols. If a symbol is not overridden, it will shine through (e.g you only replace normal and shift, but not AltGr/Right Alt). To get rid of those, override them with "NoSymbol"~~ Apparently wrong...
 
 ## Special Keys (name is self explanatory)
 
