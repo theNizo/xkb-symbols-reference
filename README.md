@@ -46,6 +46,7 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | _ | underscore | |
 | @ | at | |
 | € | EuroSign | |
+| µ | mu | |
 
 ## Special Keys (name is self explanatory)
 
