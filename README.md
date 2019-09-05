@@ -47,6 +47,20 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | @ | at | |
 | € | EuroSign | |
 
+## Special Keys (name is self explanatory)
+
+* Up
+* Down
+* Left
+* Right
+* Backspace
+* Delete
+* Return
+* Undo
+* Redo
+* Tab
+* Menu (assumed)
+
 ## German characters
 
 | Character | Name |
