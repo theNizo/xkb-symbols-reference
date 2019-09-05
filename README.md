@@ -38,7 +38,7 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | > | greater | |
 | < | less | |
 | \| | bar | |
-| | brokenbar | |
+| ¦ | brokenbar | |
 | , | comma | |
 | ; | semicolon | |
 | . | period | |
@@ -48,6 +48,8 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | @ | at | |
 | € | EuroSign | |
 | µ | mu | |
+
+When you use include, you don't actually override the keys, but the symbols. If a symbol is not overridden, it will shine through (e.g you only replace normal and shift, but not AltGr/Right Alt). To get rid of those, override them with "NoSymbol"
 
 ## Special Keys (name is self explanatory)
 
