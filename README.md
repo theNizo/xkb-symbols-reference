@@ -47,7 +47,7 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | @ | at | |
 | € | EuroSign | |
 
-# German characters
+## German characters
 
 | Character | Name |
 |-|-|
