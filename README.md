@@ -1,4 +1,4 @@
-# xkb symbols reference
+# xkb Symbols Reference
 This a cheatsheatsheet for editing xkb files. The symbols listed here are those that I need and use.
 I made it as a little help for me to port [Dvorak by Nizo](https://github.com/theNizo/DvorakByNizo-German) to Linux.
 if you want to list more characters, feel free to send me a list and I'll add them.
@@ -27,7 +27,6 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | \[ | bracketleft | |
 | \] | bracketright | |
 | ? | question | |
-| ß | ssharp | |
 | \ | backslash | |
 | ´ | acute | dead_acute |
 | \` | grave | dead_grave |
@@ -48,6 +47,8 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | @ | at | |
 | € | EuroSign | |
 
+# German characters
+
 | Character | Name |
 |-|-|
 | ü | udiaeresis |
@@ -56,3 +57,4 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | Ü | Udiaeresis |
 | Ä | Adiaeresis |
 | Ö | Odiaeresis |
+| ß | ssharp |
