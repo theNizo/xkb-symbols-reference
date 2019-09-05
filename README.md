@@ -38,6 +38,7 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | > | greater | |
 | < | less | |
 | \| | bar | |
+| | brokenbar | |
 | , | comma | |
 | ; | semicolon | |
 | . | period | |
