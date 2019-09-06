@@ -49,7 +49,9 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | € | EuroSign | |
 | µ | mu | |
 
-~~When you use include, you don't actually override the keys, but the symbols. If a symbol is not overridden, it will shine through (e.g you only replace normal and shift, but not AltGr/Right Alt). To get rid of those, override them with "NoSymbol"~~ Apparently wrong...
+~~When you use include, you don't actually override the keys, but the symbols. If a symbol is not overridden, it will shine through (e.g you only replace normal and shift, but not AltGr/Right Alt). To get rid of those, override them with "NoSymbol"~~
+
+When you have to assign a character on Level 5, but nothing on the Alt Groups, fill them with "NoSymbol". If (in this case) there is a character in the Alt Group in the layout yours is based on, it will "shine through". It will still be on your layout. (Haven't figured out how to override them yet.)
 
 ## Special Keys (name is self explanatory)
 
