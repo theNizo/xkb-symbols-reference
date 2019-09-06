@@ -67,7 +67,7 @@ When you have to assign a character on Level 5, but nothing on the Alt Groups, f
 * Tab
 * Menu (assumed)
 
-## NumBlock
+## NumBlock ("keypad_keys")
 
 | Character | Name |
 | 1 | KP_1 |
