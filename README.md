@@ -65,6 +65,20 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 * Tab
 * Menu (assumed)
 
+## NumBlock
+
+| Character | Name |
+| 1 | KP_1 |
+| 2 | KP_2 |
+| 3 | KP_3 |
+| 4 | KP_4 |
+| 5 | KP_5 |
+| 6 | KP_6 |
+| 7 | KP_7 |
+| 8 | KP_8 |
+| 9 | KP_9 |
+| 0 | KP_0 |
+
 ## German characters
 
 | Character | Name |
