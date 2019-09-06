@@ -1,4 +1,9 @@
 # xkb Symbols Reference
+
+**Warning: If you have a configuration file wih a syntax error in your symbols folder, your system will refuse to boot.**
+
+On the other hand, `systemctl restart keyboard-setup.service` didn't work on my vm.
+
 This a cheatsheatsheet for editing xkb files. The symbols listed here are those that I need and use.
 I made it as a little help for me to port [Dvorak by Nizo](https://github.com/theNizo/DvorakByNizo-German) to Linux.
 if you want to list more characters, feel free to send me a list and I'll add them.
