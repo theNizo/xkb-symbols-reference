@@ -71,6 +71,7 @@ When you have to assign a character on Level 5, but nothing on the Alt Groups, f
 * Redo
 * Tab
 * Menu (assumed)
+* Escape
 
 ## NumBlock ("keypad_keys")
 
