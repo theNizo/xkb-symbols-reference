@@ -105,5 +105,6 @@ When you have to assign a character on Level 5, but nothing on the Alt Groups, f
 ## Other characters
 
 | Character | Name |
+|-|-|
 | | aring |
 | | Aring |
