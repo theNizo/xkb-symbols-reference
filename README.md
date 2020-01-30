@@ -14,7 +14,7 @@ Please Note that this text is formatted to support markdown view. Viewing this a
 | Character | Name | Dead Key Name |
 |-|-|-|
 | ^ | circumflex | dead_circumflex |
-| ° | degree | dead_degree |
+| ° | degree | |
 | ! | exclam | |
 | " | quotedbl | |
 | § | section | |
@@ -101,3 +101,9 @@ When you have to assign a character on Level 5, but nothing on the Alt Groups, f
 | Ä | Adiaeresis |
 | Ö | Odiaeresis |
 | ß | ssharp |
+
+## Other characters
+
+| Character | Name |
+| | aring |
+| | Aring |
